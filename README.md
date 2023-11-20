@@ -6,8 +6,8 @@ APRENDA A COPIA UM SITE INTEIRO SEM COPIAR O CODIGO FONTE INTEIRO --> COM APENAS
 <br>
 #primeiro crie seu projeto(pode ser no htdocs do xampp)
 <br>
-abra localhost/seuprojetos  ;ignore os warnings
+abra localhost/seuprojeto  ;ignore os warnings
 <br>
-#basta depois abrir : localhost/seuprojetos/resultados.html
+#basta depois abrir : localhost/seuprojeto/resultados.html
 <br>
 #projeto para aprendizagem de web crawler ,vi aula no youtube
